@@ -1,0 +1,12 @@
+{
+  "name": "custom-branded-chatgpt-cron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ayushanand18/custom-branded-chatgpt-cron",
+  "author": "Ayush Anand <36472216+ayushanand18@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@netlify/functions": "^1.6.0"
+  }
+}
